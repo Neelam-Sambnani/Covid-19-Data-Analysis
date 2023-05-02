@@ -4,7 +4,7 @@ This project aims to provide insights into the data from two JSON files related 
 ----------
 The project demonstrates the use of a range of tools and technologies, including Excel, Pandas, SQL, and data visualization libraries. By combining these tools, we were able to extract valuable insights from the data and create an engaging dashboard that presents these insights in a user-friendly manner.
 ---------------------
-Key Responsblity Areas : Data Cleaning,Generating Insights from Data,Dashboard Craetion.
+# Key Responsblity Areas : Data Cleaning,Generating Insights from Data,Dashboard Creation.
 
 
 
