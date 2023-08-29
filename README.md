@@ -8,6 +8,11 @@ Welcome to our COVID-19 Data Analysis Project, a comprehensive endeavor aimed at
 
 In this project, we delved into the heart of pandemic data, harnessing the power of cutting-edge tools and technologies to distill knowledge from chaos. Our journey began with JSON files, which we swiftly converted into CSV format for streamlined manipulation. Armed with the formidable combination of Excel and Pandas, we embarked on a thorough data cleansing crusade, ensuring that the foundation for our insights remained robust and unshakable.
 
+**Tools Used**
+---
+Excel,SQL,Python,Numpy,Pandas.
+
+
 **Unveiling Insights**
 ---
 The true essence of data lies in the stories it tells. Through skillful SQL querying, we harnessed the potential of structured querying language to unveil hidden truths within the data. Trends emerged, patterns materialized, and the pandemic's narrative became clearer. This phase empowered us to extract meaningful insights, laying the groundwork for informed decision-making.
