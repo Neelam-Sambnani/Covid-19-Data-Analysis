@@ -58,6 +58,16 @@ The culmination of our efforts. An interactive, visually captivating dashboard t
 ---
 This project isn't just about data analysis; it's about transforming information into understanding, and understanding into action. Our COVID-19 Data Analysis Project empowers individuals with the knowledge to make informed decisions, the insight to comprehend complex trends, and the ability to explore data interactively.
 
+**Challenges Faced**
+---
+**Data Quality:**  Tackling inconsistencies and inaccuracies in pandemic data.
+
+**Data Volume:**  Handling vast datasets efficiently.
+
+**Data Integration:**  Merging diverse data sources seamlessly.
+
+**Dashboard Design:**  Balancing aesthetics and functionality in interactive visualization.
+
 
 
 
