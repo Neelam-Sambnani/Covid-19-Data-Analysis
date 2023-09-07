@@ -68,6 +68,11 @@ This project isn't just about data analysis; it's about transforming information
 
 **Dashboard Design:**  Balancing aesthetics and functionality in interactive visualization.
 
+**Future Scope**
+---
+**Machine Learning:**  Exploring machine learning algorithms to identify early warning signs and novel correlations within the data.
+
+**Global Collaboration:**  Partnering with global health organizations to contribute to worldwide efforts in understanding and combating pandemics.
 
 
 
