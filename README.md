@@ -39,6 +39,36 @@ Our team's dedication was divided into three crucial spheres:
 **1. Data Cleaning**
 The foundation of insightful analysis. The meticulous process of transforming raw, chaotic data into pristine information primed for analysis.
 
+Some snapshots of python coding 
+
+
+
+
+
+![Screenshot (37)](https://github.com/Neelam-Sambnani/Covid-19-Data-Analysis/assets/125915800/7275edf7-5574-4d69-82b4-d384cb29834f)
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot (36)](https://github.com/Neelam-Sambnani/Covid-19-Data-Analysis/assets/125915800/d1487ec5-6f03-41a3-83b5-15fd99d67e18)
+
+
+
+
+
+
+
+
+
+
+
 **2. Generating Insights from Data**
 The heart of the project. Leveraging SQL queries, we unearthed the data's narrative – discovering trends, discerning patterns, and piecing together the pandemic puzzle.
 
