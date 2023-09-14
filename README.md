@@ -13,6 +13,39 @@ In this project, we delved into the heart of pandemic data, harnessing the power
 Excel,SQL,Python,Numpy,Pandas.
 
 
+**Data Description**
+---
+
+
+
+
+
+
+![Screenshot (55)](https://github.com/Neelam-Sambnani/Covid-19-Data-Analysis/assets/125915800/48b3711f-85cd-4cc1-901e-f698eae7941b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Unveiling Insights**
 ---
 The true essence of data lies in the stories it tells. Through skillful SQL querying, we harnessed the potential of structured querying language to unveil hidden truths within the data. Trends emerged, patterns materialized, and the pandemic's narrative became clearer. This phase empowered us to extract meaningful insights, laying the groundwork for informed decision-making.
@@ -36,7 +69,7 @@ A symphony of technology and design, our interactive dashboard stands as the pin
 ---
 Our team's dedication was divided into three crucial spheres:
 
-**1. Data Cleaning**
+**1. Data Exploration**
 The foundation of insightful analysis. The meticulous process of transforming raw, chaotic data into pristine information primed for analysis.
 
 Some snapshots of python coding 
