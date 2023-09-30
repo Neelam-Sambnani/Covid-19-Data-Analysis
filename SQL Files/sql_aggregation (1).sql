@@ -1,7 +1,11 @@
+--- creating Database
+
 SET SQL_SAFE_UPDATES = 0;
 
 create database db1;
 use db1;
+
+--- Show data of all tables
 
 select * from data_min_delta;
 select * from data_min_total;
